@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <link href="estilos.css" rel="stylesheet" type="text/css">
+    <title>JM Contabilidade | São José</title>
+    <meta charset="utf-8" />
+    <link rel="icon" sizes="192x192" href="https://jmcontabilidadesj.com.br/jm-contabilidade-sao-jose.png">
+    <META NAME="description" content="Prestação de serviços contábeis e administração de condomínios. Parceria para o desenvolvimento e fortalecimento no mercado, utilizando dos benefícios que a legislação oferece para o melhor enquadramento fiscal, maior destaque e crescimento." />
+    <META NAME="keywords" content="são josé, contabilidade são josé, jm contabilidade sj, serviços contábeis são josé, Serviços de contabilidade, Consultoria contábil são josé, Escritório contábil, administração de condomínios, condomínios, JM Contabilidade, escritório de contabilidade" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="fHkc2GXCZ97zZywr-jIFtfPvS1OUywZqhDvE327kw7s" />
+    
+    <meta name="theme-color" content="#f16521"/>
+    
+    <!-- Font Awesome CDN -->
+    <script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous"></script>
+    
+
+    
+</head>
+
+
+<div class="content"><a href="https://jmcontabilidadesj.com.br/"><img src="https://jmcontabilidadesj.com.br/jm-contabilidade-sj.svg" border="0" id="layout" alt="Layout JM Contabilidade"></a></div>
+
+<body>
+    <div id="back1"></div>
+
+    <div id="back2"></div>
+
+    <div id="tel">
+        <img src="https://jmcontabilidadesj.com.br/jm-contabilidade-telefone.svg" aling="left" alt="Ícone de telefone">
+    </div>
+    <div id="number">
+        <span itemprop="telephone">(48) 3357-6860</span>
+        <br> (48) 98415-1781 Oi
+        <br> (48) 99910-6877 Tim
+        <br><br>
+        <strong>E-mail:</strong> <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jmcontabilidadesj@gmail.com" title="Envie uma mensagem" target="_blank" rel="noopener noreferrer"><span itemprop="email">jmcontabilidadesj@gmail.com</span></a><br>
+        <strong>Endereço:</strong><a href="https://goo.gl/maps/CfSNFo27b9u" target="_blank" rel="noopener"> <span itemprop="streetAddress"><i class="fas fa-map-marker-alt"></i> Rua João Jovino Ferreira, 524</span><br><span itemprop="addressLocality">Forquilhinhas, São José - SC</span><h6>Ao lado da Auto Escola Catarina</h6></a></center>
+    </div>
+
+
+
+
+    <div id="telefonemobile">
+        <img src="https://jmcontabilidadesj.com.br/jm-contabilidade-sj-telefone.svg" alt="Ícone de telefone">
+    </div>
+    <div id="numeromobile">
+        <center><fonte><span itemprop="telephone">(48) 3357-6860</span>
+        <br> (48) 98415-1781 Oi
+        <br> (48) 99910-6877 Tim
+    </div>
+
+
+            <div class="menutop">
+                <div class="menudrop">
+                    <div class="dropdown">
+                        <button class="dropbtn">
+                            CONSULTAS
+                        </button>
+
+                        <div class="dropdown-content">
+                            <a href="http://www.receita.fazenda.gov.br/PessoaJuridica/CNPJ/cnpjreva/Cnpjreva_Solicitacao.asp" target="_blank" rel="noopener">Consulta CNPJ</a>
+                            <a href="https://jmcontabilidadesj.com.br/registroempresa.html" rel="noopener">Documentos para Registro de Empresa</a>
+                            <a href="http://www.jucesc.sc.gov.br/index.php/downloads" target="_blank" rel="noopener">Modelos de Documentos (JUCESC)</a>
+                            <a href="https://jmcontabilidadesj.com.br/tabelasdosimplesnacional.html">Tabelas do Simples Nacional</a>
+                            <a href="http://www.portaldoempreendedor.gov.br/mei-microempreendedor-individual" target="_blank" rel="noopener">Empreendedor Individual</a>
+                             <a href="http://www.nfe.fazenda.gov.br/portal/" target="_blank" rel="noopener">Nota Fiscal Eletrônica</a>
+                            <a href="https://jmcontabilidadesj.com.br/informacoesuteis.html">Informações Úteis</a>
+
+                        </div>
+                    </div>
+    
+
+
+                    <div class="dropdown">
+                        <button class="dropbtn">
+                            LEGISLAÇÃO
+                        </button>
+
+
+                        <div class="dropdown-content">
+                            <a href="http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao" target="_blank" rel="noopener">Legislação Federal</a>
+                            <a href="http://www.sef.sc.gov.br/legislacao" target="_blank" rel="noopener"><span>Legislação Estadual (SC)</a>
+                            <a href="http://www.sebrae-sc.com.br/leis/default.asp" target="_blank" rel="noopener">Legislação (SEBRAE)</a>
+                            <a href="http://www.planalto.gov.br/ccivil_03/leis/L4591.htm" target="_blank" rel="noopener">Legislação de Constituição de Condomínio</a>
+                            <a href="http://www.nobrefernandes.com.br/Manual-do-S%C3%ADndico4.pdf" target="_blank" rel="noopener">Manual do Síndico</a>
+                            <a href="http://www.itcnet.com.br/" target="_blank" rel="noopener">Informativo Tributário Contábil (ITC)</a>
+
+                                </div>
+                        </div>
+    
+        
+
+
+                        <div class="dropdown">
+
+                            <button class="dropbtn">
+
+                                SINDICATOS
+
+                            </button>
+
+                            <div class="dropdown-content">
+                                <a href="http://www.sec.floripa.com.br/" target="_blank" rel="noopener">Sindicatos da Região de Florianópolis</a>
+                                <a href="http://www.secph.org.br/" target="_blank" rel="noopener" align="left">SECPH</a>
+                                <a href="http://www.secsj.org.br/" target="_blank" rel="noopener">SECSJ</a>
+                                <a href="http://www.siticomfloripa.com.br/" target="_blank" rel="noopener">SITICOM Floripa</a>
+                                <a href="http://www.sintracargas.com.br/" target="_blank" rel="noopener">SINTRACARGAS</a>
+                                <a href="http://www.sindsaudesc.com.br/" target="_blank" rel="noopener">SINDSAUDESC</a>
+                                <a href="http://www.sindiconde.com.br/site/" target="_blank" rel="noopener">SINDICONDE</a>
+                                <a href="http://www.sintiplabi.org.br/" target="_blank" rel="noopener">SINTIPLABI</a>
+                                <a href="http://sintimesc.com.br/" target="_blank" rel="noopener">SINTIMESC</a>
+                                <a href="http://www.sindsaudesc.com.br/" target="_blank" rel="noopener">SINDSAUDE</a>
+                                <a href="http://www.securitariofpolis.org.br/" target="_blank" rel="noopener">Sindicato dos Securitários</a>
+                                <a href="http://seef.com.br/" target="_blank" rel="noopener">Sindicato Trab. Condomínios</a>
+
+                            </div>
+                        </div>
+                
+
+
+                        <div class="dropdown">
+                            <button class="dropbtn">
+                                CADASTROS
+                            </button>
+                            <div class="dropdown-content">
+                                <a href="http://www.sintegra.gov.br/" target="_blank" rel="noopener">Estadual</a>
+                                <a href="http://www8.receita.fazenda.gov.br/SimplesNacional/" target="_blank" rel="noopener">Consulta Simples</a>
+                                <a href="http://www.jucesc.sc.gov.br/index.php/servicos/certidoes#certid%C3%A3o-simplificada" target="_blank" rel="noopener">Certidão Simplificada (JUCESC/Cadastro)</a>
+
+                            </div>
+                        </div>
+                
+
+
+                        <div class="dropdown">
+                            <button class="dropbtn">
+                                CERTIDÃO NEGATIVA
+                            </button>
+                            <div class="dropdown-content">
+                                <a href="http://www.receita.fazenda.gov.br/Aplicacoes/ATSPO/Certidao/CndConjuntaInter/InformaNICertidao.asp?tipo=1" target="_blank" rel="noopener">Receita Federal</a>
+                                <a href="https://tributario.sef.sc.gov.br/tax.NET/Sat.CtaCte.Web/SolicitacaoCnd.aspx" target="_blank" rel="noopener">Estadual</a>
+                                <a href="https://www.sifge.caixa.gov.br/Cidadao/Crf/FgeCfSCriteriosPesquisa.asp" target="_blank" rel="noopener">FGTS</a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+                <div class="menutopm">
+                    <div class="menudropm">
+                        <div class="dropdownm">
+                            <button class="dropbtnm">
+                                MENU
+                            </button>
+                            <div class="dropdownm-content">
+                                <a href="https://jmcontabilidadesj.com.br/consultas.html" rel="noopener">Consultas</a>
+                                <a href="https://jmcontabilidadesj.com.br/legislacao.html" rel="noopener">Legislação</a>
+                                <a href="https://jmcontabilidadesj.com.br/sindicatos.html" rel="noopener">Sindicatos</a>
+                                <a href="https://jmcontabilidadesj.com.br/cadastros.html" rel="noopener">Cadastros</a>
+                                <a href="https://jmcontabilidadesj.com.br/certidaonegativa.html" rel="noopener">Certidão Negativa</a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+                <div class="row">
+                    <div class="caixa2">
+                        
+                        
+
+                    </div>
+
+                    <div class="caixa1">
+                        <h2>Quem Somos</h2>
+                        Somos uma empresa de serviços contábeis e administração de condomínios que está inteiramente disposta a firmar parceria para o desenvolvimento e fortalecimento no mercado, utilizando de todos os benefícios que a legislação oferece para o melhor enquadramento fiscal, oferecendo assim maior chance e destaque e crescimento.
+
+
+                        <h2>Missão</h2>
+                        Criar no mercado competitivo empresas sólidas, apresentando soluções tecnológicas inovadoras, fazendo de você o empresário diferenciado perante a sociedade. Para isso você pode contar com o nosso atendimento direto. 
+                        <br>Além disto, prestar serviços de contabilidade para diversas áreas e condomínios, orientar e assessorar na gestão dos negócios, oferecendo soluções inteligentes com competência, ética e credibilidade aos contribuintes, bem como viabilizando o relacionamento das empresas com o mercado e a geração de riqueza e renda.
+
+
+                        <h2>Visão</h2>
+                        Nos tornar referência na área da contabilidade e de condomínios em atendimento, qualidade, credibilidade e liderança de mercado no segmento de escritórios de contabilidade.
+
+
+                        <h2>Valores</h2>
+                        Prestação de serviços contábeis com qualidade, agilidade, competência e credibilidade, seguindo princípios éticos e morais, e transmitindo esses conceitos de bom exemplo para clientes, funcionários, fornecedores, instituições financeiras, órgãos públicos e a comunidade em geral.
+
+                        <br><br><br>Entre em contato através dos nossos telefones ou nos envie um e-mail de solicitação. Você será bem vindo(a).
+
+                    </div>
+
+
+
+
+                    <div class="caixa3">
+                        
+                        <a href="https://jmcontabilidadesj.com.br/impostoderenda.html"><img src="https://jmcontabilidadesj.com.br/imposto-de-renda-2019.svg" alt="leão da declaração de imposto de renda" class="bw" alt="Ilustração de leão com os dizeres: você sabe administrar o seu leão?"></a>
+
+                        <h2>Cartão de Visita</h2>
+                        <img src="https://jmcontabilidadesj.com.br/cartao%20jm%20contabilidade.jpg" border="1" alt="Cartão de Visita | Escritório de Contabilidade em São José" title="Cartão de Visita" class="img" alt="cartão de visita da empresa, com informações de endereço e registro">
+
+                        <h2>Escritório</h2>
+                        <img itemprop="image" src="https://jmcontabilidadesj.com.br/escritorio-jm-contabilidade-sj.jpg" border="1" alt="Escritório de Contabilidade em São José" title="Escritório" width="284px" height="199px" class="img" alt="fotografia do prédio do escritório de contabilidade">
+                        <br><br><br>
+                        
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d883.9512443686845!2d-48.6426233!3d-27.5995753!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x28b30d3ab0310ee8!2sJM%20Contabilidade!5e0!3m2!1sen!2sbr!4v1645133471542!5m2!1sen!2sbr" width="280" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+                    </div>
+                </div>
+
+        
+
+                <footer>
+                    <div class="footer-box">
+                        <h3>2010 - 2022 | <span itemprop="name">JM Contabilidade</span> - Serviços contábeis, consultoria e administração de condomínios</h3>
+
+                    </div>
+                </footer>
+
+</body>
+</html>
