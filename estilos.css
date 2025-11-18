@@ -1,4 +1,3 @@
-<style type="text/css">
 
 /*B&W*/
 .bw {
@@ -14,11 +13,12 @@
  
 .bw:hover {
     -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    filter: grayscale(100%);
     }
 
 
 .bw {
-  /*animation-delay: 2s;*/
   animation: pulse 6s infinite;
   margin: 0 auto;
   display: table;
@@ -28,7 +28,7 @@
 
 html {
     font-size: 16px;}
-}
+
 
 @keyframes pulse {
   0% {
@@ -108,7 +108,7 @@ text-align: center;
 }
 
 
-body{; 
+body{
     font-family:tahoma;
     font-size:1rem;
     line-height:180%;
@@ -118,7 +118,7 @@ body{;
     }
     
 h1{
-      font-family:verdana;
+    font-family:verdana;
     font-size:19px;
     color:#000000;
         
@@ -205,6 +205,8 @@ footer {
 }
 
 
+
+
 @media (min-width: 1281px) {
 
     h2{
@@ -245,14 +247,14 @@ footer {
         background-color: #ffffff;
         color: #000000;
         padding: 16px;
-        width: 200px;
+        width: 208px;
         font-size: 14px;
         border: none;
         cursor: pointer;
         font-family: arial;
         font-weight: 700;
         z-index: 1;
-        margin: 23px;
+        margin: 20px;
         margin-top:2px;
         z-index: 994;
     }
@@ -267,9 +269,9 @@ footer {
         display: none;
         position: absolute;
         background-color: #ffffff;
-        width: 200px;
+        width: 208px;
         z-index: 1;
-        margin:23px;
+        margin:20px;
         margin-top: -30px;
         z-index: 998;
     }
@@ -280,7 +282,7 @@ footer {
         text-decoration: none;
         display: block;
         border: 1px solid #c0c0c0;
-        margin-bottom: 1px;
+        margin-bottom: -1px;
     }
 
     .dropdown-content a:hover {
@@ -430,7 +432,7 @@ footer {
         text-decoration: none;
         display: block;
         border: 1px solid #c0c0c0;
-        margin-bottom: 1px;
+        margin-bottom: -1px;
     }
 
     .dropdown-content a:hover {
@@ -587,7 +589,7 @@ footer {
         text-decoration: none;
         display: block;
         border: 1px solid #c0c0c0;
-        margin-bottom: 1px;
+        margin-bottom: -1px;
     }
 
     .dropdown-content a:hover {
@@ -757,7 +759,7 @@ footer {
         text-decoration: none;
         display: block;
         border: 1px solid #c0c0c0;
-        margin-bottom: 1px;
+        margin-bottom: -1px;
     }
 
     .dropdown-content a:hover {
@@ -865,9 +867,9 @@ footer {
 
 }
 
-
+/* mobile */
 @media (min-width: 481px) and (max-width: 767px) {
-/ mobile /
+
     .menutop {
     display: none;
         
@@ -879,7 +881,6 @@ footer {
     }
     
     .bw {
-      /*animation-delay: 2s;*/
       animation: pulse 3s infinite;
       margin: 0 auto;
       display: table;
@@ -912,8 +913,6 @@ footer {
         padding-right:15%;
         padding-top:20px;
         padding-bottom: 50px;
-        float: left;
-        overflow-x: scroll;
     }
     
 
@@ -1065,9 +1064,9 @@ footer {
 
 
 
-
+/* mobile small */
 @media (min-width: 320px) and (max-width: 480px) {
-/ mobile small /
+
     .menutop {
         display: none;
         
@@ -1288,6 +1287,3 @@ footer {
     
     
 }
-
-
-</style>

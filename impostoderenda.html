@@ -5,7 +5,7 @@
     <link href="estilos.css" rel="stylesheet" type="text/css">
     <title>JM Contabilidade | Declaração de Imposto de Renda</title>
     <meta charset="utf-8" />
-    <link rel="icon" sizes="192x192" href="https://jmcontabilidadesj.com.br/jm-contabilidade-sao-jose.png">
+    <link rel="shortcut icon" sizes="192x192" href="/images/jm-contabilidade-sao-jose.png">
     <META NAME="description" content="Prestação de serviços contábeis e administração de condomínios. Parceria para o desenvolvimento e fortalecimento no mercado, utilizando dos benefícios que a legislação oferece para o melhor enquadramento fiscal, maior destaque e crescimento." />
     <META NAME="keywords" content="ir 2022, imposto de renda, imposto de renda 2022, contabilidade IR, IR 2021, são josé, contabilidade são josé, jm contabilidade sj, serviços contábeis são josé, Serviços de contabilidade, Consultoria contábil são josé, Escritório contábil, administração de condomínios, condomínios, JM Contabilidade, escritório de contabilidade" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,36 +22,14 @@
 </head>
 
 
-<div class="content"><a href="https://jmcontabilidadesj.com.br/"><img src="https://jmcontabilidadesj.com.br/jm-contabilidade-sj.svg" border="0" id="layout" alt="Layout JM Contabilidade"></a></div>
-
-<body>
-    <div id="back1"></div>
-
-    <div id="back2"></div>
-
-    <div id="tel">
-        <img src="https://jmcontabilidadesj.com.br/jm-contabilidade-telefone.svg" aling="left" alt="Ícone de telefone">
-    </div>
-       <div id="number">
-        <span itemprop="telephone">(48) 3357-6860</span>
-        <br> (48) 98415-1781 Oi
-        <br> (48) 99910-6877 Tim
-        <br><br>
-        <strong>E-mail:</strong> <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jmcontabilidadesj@gmail.com" title="Envie uma mensagem" target="_blank" rel="noopener noreferrer"><span itemprop="email">jmcontabilidadesj@gmail.com</span></a><br>
-        <strong>Endereço:</strong><a href="https://goo.gl/maps/CfSNFo27b9u" target="_blank" rel="noopener"> <span itemprop="streetAddress"><i class="fas fa-map-marker-alt"></i> Rua João Jovino Ferreira, 524</span><br><span itemprop="addressLocality">Forquilhinhas, São José - SC</span><h6>Ao lado da Auto Escola Catarina</h6></a></center>
-    </div>
-
-
-
-
-    <div id="telefonemobile">
-        <img src="https://jmcontabilidadesj.com.br/jm-contabilidade-sj-telefone.svg" alt="Ícone de telefone">
-    </div>
-    <div id="numeromobile">
-        <center><fonte><span itemprop="telephone">(48) 3357-6860</span>
-        <br> (48) 98415-1781 Oi
-        <br> (48) 99910-6877 Tim
-    </div>
+<div id="header-placeholder"></div>
+<script>
+  fetch("header.html")
+    .then(r => r.text())
+    .then(html => {
+      document.getElementById("header-placeholder").innerHTML = html;
+    });
+</script>
 
 
 <div id="menu-placeholder"></div>
@@ -64,7 +42,7 @@
 </script>
 
 
-
+<body>
 <div class="row">
 <div class="caixa1">
 
