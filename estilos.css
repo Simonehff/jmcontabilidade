@@ -1,4 +1,3 @@
-
 /*B&W Image*/
 
 .bw {
@@ -9,38 +8,41 @@
     transition: all ease;
     margin-left: auto;
     margin-right: auto;
-    padding-top:40px;
-    }
- 
+    padding-top: 40px;
+}
+
 .bw:hover {
     -webkit-filter: grayscale(100%);
     -moz-filter: grayscale(100%);
     filter: grayscale(100%);
-    }
+}
 
 
 .bw {
-  animation: pulse 6s infinite;
-  margin: 0 auto;
-  display: table;
-  margin-top: 50px;
-  animation-direction: alternate;
+    animation: pulse 6s infinite;
+    margin: 0 auto;
+    display: table;
+    margin-top: 50px;
+    animation-direction: alternate;
 }
 
 html {
-    font-size: 16px;}
+    font-size: 16px;
+}
 
 
 @keyframes pulse {
-  0% {
-    transform: scale(1.05);
-  }
+    0% {
+        transform: scale(1.05);
+    }
+
     50% {
         transform: scale(1);
-  }
-  100% {
-    transform: scale(1.05);
-  }
+    }
+
+    100% {
+        transform: scale(1.05);
+    }
 }
 
 
@@ -50,138 +52,147 @@ html {
 
 
 #back1 {
-  background-color: #f06405;
-  background-size: 100px 80px;
-  background-repeat: no-repeat;
-  height:25px;
-  background-position: 0px, 0px, 0px, 0px;
-  margin: 0px;
-  z-index:1000;
+    background-color: #f06405;
+    background-size: 100px 80px;
+    background-repeat: no-repeat;
+    height: 25px;
+    background-position: 0px, 0px, 0px, 0px;
+    margin: 0px;
+    z-index: 1000;
 }
 
 #back2 {
-  background-color: #f06405;
-  background-repeat: no-repeat;
-  margin-top:202px;
-  margin-left:-10px;
-  margin-right:0px;
-  height:55px;
-  z-index:1000;
+    background-color: #f06405;
+    background-repeat: no-repeat;
+    margin-top: 202px;
+    margin-left: -10px;
+    margin-right: 0px;
+    height: 55px;
+    z-index: 1000;
 }
 
 .content {
-    position:relative;
+    position: relative;
     width: 70%;
     z-index: 2;
-    margin:auto;
+    margin: auto;
     background-color: #ffffff;
 }
 
 ul {
-    margin-left:-15px;
-            text-align:left;
+    margin-left: -15px;
+    text-align: left;
 }
 
 .row {
     max-width: 99%;
     margin: auto;
-    }
+}
 
 
 .row:after {
     content: "";
     display: table;
     clear: both;
-    }
+}
 
 .img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    }
-    
+}
+
 .box {
     width: 300px;
     border: 1px solid #909090;
     padding: 24px;
     margin: auto;
-text-align: center;
+    text-align: center;
 }
 
 
-body{
-    font-family:tahoma;
-    font-size:1rem;
-    line-height:180%;
+body {
+    font-family: tahoma;
+    font-size: 1rem;
+    line-height: 180%;
     color: #444444;
     margin: 0;
     padding: 0;
-    }
-    
-h1{
-    font-family:verdana;
-    font-size:19px;
-    color:#000000;
-        
-    }
-h2{
-    font-family:tahoma;
-    font-size:14px;
-    color:#b32400;
-    line-height:190%;
-    padding-top:20px;
+}
+
+h1 {
+    font-family: verdana;
+    font-size: 19px;
+    color: #000000;
+
+}
+
+
+h2 {
+    font-family: tahoma;
+    font-size: 14px;
+    color: #b32400;
+    line-height: 190%;
+    padding-top: 20px;
     text-align: center;
-        
-    }
-h3{
-    font-family:verdana;
-    font-size:10px;
-    padding-top:10px;
-    color:#fff;
+
+}
+
+
+h3 {
+    font-family: verdana;
+    font-size: 10px;
+    padding-top: 10px;
+    color: #fff;
     text-align: center;
     font-weight: normal;
     margin: 0px;
 }
 
 h6 {
-    font-family:verdana;
-    font-size:9px;
+    font-family: verdana;
+    font-size: 9px;
     font-weight: 300;
     margin: 1px;
-    }
+}
+
 strong {
     font-family: tahoma;
-    font-size:13px;
-    color:#303030;
-    
-} 
-td, p{
-    COLOR:#000000;
-    font-size:12px;
-    FONT-FAMILY:verdana;
-    
+    font-size: 13px;
+    color: #303030;
+
 }
+
+td,
+p {
+    COLOR: #000000;
+    font-size: 12px;
+    FONT-FAMILY: verdana;
+
+}
+
 .div {
-    overflow:auto;
-    
-} 
+    overflow: auto;
+
+}
 
 
 a {
-    color:#cc4004;
-    font-weight:regular;
-    text-decoration:none;
-    font-size:13px;
-    text-decoration:none;
-    FONT-FAMILY:verdana;
-    line-height:180%;
-        
-} 
-A:hover{
-    COLOR:#662103;
-    font-size:13px;
-    text-decoration:none;
-    FONT-FAMILY:verdana;
+    color: #cc4004;
+    font-weight: regular;
+    text-decoration: none;
+    font-size: 13px;
+    text-decoration: none;
+    FONT-FAMILY: verdana;
+    line-height: 180%;
+
+}
+
+A:hover {
+    COLOR: #662103;
+    font-size: 13px;
+    text-decoration: none;
+    FONT-FAMILY: verdana;
 }
 
 
@@ -195,7 +206,7 @@ footer {
 
 .footer-box {
     background-color: #F06405;
-    height:45px;
+    height: 45px;
     margin-top: 20px;
 }
 
@@ -211,38 +222,38 @@ footer {
 
 @media (min-width: 1281px) {
 
-    h2{
-        font-family:tahoma;
-        font-size:16px;
-        color:#b32400;
-        line-height:190%;
-        padding-top:20px;
+    h2 {
+        font-family: tahoma;
+        font-size: 16px;
+        color: #b32400;
+        line-height: 190%;
+        padding-top: 20px;
         text-align: center;
-        
+
     }
-    
+
     .dropbtnm {
         color: #FFFFFF;
-        
+
     }
-    
+
     .dropdownm {
         display: none;
-        
+
     }
-    
+
     .menutop {
-        margin-top:-40px;
+        margin-top: -40px;
         z-index: 997;
-        
+
     }
-    
+
     .menudrop {
         margin: 0 auto;
         width: -moz-max-content;
         width: fit-content;
         z-index: 996;
-        
+
     }
 
     .dropbtn {
@@ -257,7 +268,7 @@ footer {
         font-weight: 700;
         z-index: 1;
         margin: 20px;
-        margin-top:2px;
+        margin-top: 2px;
         z-index: 994;
     }
 
@@ -273,7 +284,7 @@ footer {
         background-color: #ffffff;
         width: 208px;
         z-index: 1;
-        margin:20px;
+        margin: 20px;
         margin-top: -30px;
         z-index: 998;
     }
@@ -290,79 +301,83 @@ footer {
     .dropdown-content a:hover {
         background-color: #f9f9f9;
         text-decoration: none;
-        
+
     }
 
     .dropdown:hover .dropdown-content {
         display: block;
     }
-    
+
     .caixa2 {
-        display:none;
+        display: none;
     }
 
 
     .caixa1 {
-        width:35%;
-        font-family:tahoma; 
-        font-size:1rem; 
+        width: 35%;
+        font-family: tahoma;
+        font-size: 1rem;
         color: #444444;
-        line-height:180%;
+        line-height: 180%;
         float: left;
-        margin-left:17%;
-        margin-right:-5%;
+        margin-left: 17%;
+        margin-right: -5%;
         margin-top: 25px;
-        margin-bottom:65px;
+        margin-bottom: 65px;
         text-align: center;
     }
-    
+
     .caixa3 {
         align-content: center;
         float: left;
         margin-left: 20%;
     }
-    
+
     .caixa4 {
-        width:30%;
-        font-family:tahoma; 
-        font-size:1rem; 
+        width: 30%;
+        font-family: tahoma;
+        font-size: 1rem;
         color: #444444;
-        line-height:180%;
+        line-height: 180%;
         float: left;
-        margin-left:16%;
-        margin-right:-5%;
+        margin-left: 16%;
+        margin-right: -5%;
         margin-top: 55px;
-        margin-bottom:65px;
-        text-align:left;
+        margin-bottom: 65px;
+        text-align: left;
     }
-    
+
 
     #tel {
-        position:absolute;
-        top:55px;
-        left:66%;
-        font-family:tahoma;
-        font-size:14px;
-        line-height:180%;
+        position: absolute;
+        top: 55px;
+        left: 66%;
+        font-family: tahoma;
+        font-size: 14px;
+        line-height: 180%;
     }
+
     #number {
-        position:absolute;
-        top:45px;
-        left:65%;
-        font-family:tahoma;
-        font-size:14px;
-        line-height:140%;
+        position: absolute;
+        top: 45px;
+        left: 65%;
+        font-family: tahoma;
+        font-size: 14px;
+        line-height: 140%;
         text-align: center;
     }
+
     #layout {
         position: absolute;
-        top:37px;
-        left:16%;
+        top: 37px;
+        left: 16%;
         z-index: 2;
     }
+
     #telefonemobile {
         display: none;
     }
+
     #numeromobile {
         display: none;
     }
@@ -378,24 +393,24 @@ footer {
 
     .dropbtnm {
         color: #FFFFFF;
-        
+
     }
-    
+
     .dropdownm {
         display: none;
-        
+
     }
-    
+
     .menutop {
-        margin-top:-38px;
-        
+        margin-top: -38px;
+
     }
-    
+
     .menudrop {
         margin: 0 auto;
         width: -moz-max-content;
         width: fit-content;
-        
+
     }
 
     .dropbtn {
@@ -410,7 +425,7 @@ footer {
         font-weight: 600;
         z-index: 1;
         margin: 14px;
-        margin-top:2px;
+        margin-top: 2px;
     }
 
     .dropdown {
@@ -424,7 +439,7 @@ footer {
         background-color: #ffffff;
         width: 170px;
         z-index: 1;
-        margin:14px;
+        margin: 14px;
         margin-top: -25px;
     }
 
@@ -440,78 +455,82 @@ footer {
     .dropdown-content a:hover {
         background-color: #f9f9f9;
         text-decoration: none;
-        
+
     }
-    
+
     .dropdown:hover .dropdown-content {
         display: block;
     }
-    
+
     .caixa2 {
-        display:none;
+        display: none;
     }
 
     .caixa1 {
-        width:40%;
-        font-family:tahoma; 
-        font-size:1rem; 
-        line-height:180%;
+        width: 40%;
+        font-family: tahoma;
+        font-size: 1rem;
+        line-height: 180%;
         color: #444444;
         float: left;
-        margin-left:11%;
-        margin-top: 25px; 
-        margin-bottom:55px;
+        margin-left: 11%;
+        margin-top: 25px;
+        margin-bottom: 55px;
         text-align: center;
     }
-    
+
     .caixa3 {
         align-content: center;
         float: left;
         margin-left: 140px;
 
     }
-    
+
     .caixa4 {
-        width:32%;
-        font-family:tahoma; 
-        font-size:1rem; 
+        width: 32%;
+        font-family: tahoma;
+        font-size: 1rem;
         color: #444444;
-        line-height:180%;
+        line-height: 180%;
         float: left;
-        margin-left:9%;
-        margin-right:-5%;
+        margin-left: 9%;
+        margin-right: -5%;
         margin-top: 55px;
-        margin-bottom:65px;
-        text-align:left;
+        margin-bottom: 65px;
+        text-align: left;
     }
-    
-    
+
+
     #tel {
-        position:absolute;
-        top:57px;
-        left:66%;
-        font-family:tahoma;
-        font-size:13px;
-        line-height:180%;
+        position: absolute;
+        top: 57px;
+        left: 66%;
+        font-family: tahoma;
+        font-size: 13px;
+        line-height: 180%;
     }
+
     #number {
-        position:absolute;
-        top:45px;
-        left:64%;
-        font-family:tahoma;
-        font-size:13px;
-        line-height:160%;
+        position: absolute;
+        top: 45px;
+        left: 64%;
+        font-family: tahoma;
+        font-size: 13px;
+        line-height: 160%;
         text-align: center;
     }
+
     #layout {
         position: absolute;
-        top:37px;
-        left:7%;
+        top: 37px;
+        left: 7%;
         z-index: 2;
     }
+
     #telefonemobile {
         display: none;
     }
+
     #numeromobile {
         display: none;
     }
@@ -523,35 +542,35 @@ footer {
 
 
 @media (min-width: 910px) and (max-width: 1024px) {
-    
+
     a {
         font-size: 12px;
     }
-    
-        a:hover {
+
+    a:hover {
         font-size: 12px;
     }
 
     .dropbtnm {
         color: #FFFFFF;
-        
+
     }
-    
+
     .dropdownm {
         display: none;
-        
+
     }
-    
+
     .menutop {
-        margin-top:-42px;
-        
+        margin-top: -42px;
+
     }
-    
+
     .menudrop {
         margin: 0 auto;
         width: -moz-max-content;
         width: fit-content;
-        
+
     }
 
     .dropbtn {
@@ -566,7 +585,7 @@ footer {
         font-weight: 600;
         z-index: 1;
         padding-top: 14px;
-        margin:8px;
+        margin: 8px;
         margin-top: 6px;
     }
 
@@ -574,14 +593,14 @@ footer {
         position: relative;
         display: inline-block;
     }
-    
+
     .dropdown-content {
         display: none;
         position: absolute;
         background-color: #ffffff;
         width: 159px;
         z-index: 1;
-        margin:8px;
+        margin: 8px;
         margin-top: -8px;
     }
 
@@ -597,131 +616,136 @@ footer {
     .dropdown-content a:hover {
         background-color: #f9f9f9;
         text-decoration: none;
-        
+
     }
-    
+
     .dropdown:hover .dropdown-content {
         display: block;
     }
-    
+
     .caixa2 {
-        display:none;
+        display: none;
     }
 
     .caixa1 {
-        width:40%;
-        font-family:tahoma; 
-        font-size:1rem; 
-        line-height:180%;
+        width: 40%;
+        font-family: tahoma;
+        font-size: 1rem;
+        line-height: 180%;
         float: left;
         color: #444444;
-        margin-left:10%;
-        margin-right:3%;
-        margin-top: 20px; 
-        margin-bottom:45px;
+        margin-left: 10%;
+        margin-right: 3%;
+        margin-top: 20px;
+        margin-bottom: 45px;
         text-align: center;
     }
-    
+
     .caixa3 {
         align-content: center;
         float: left;
         margin-left: 100px;
 
     }
-    
+
     .caixa4 {
-        width:30%;
-        font-family:tahoma; 
-        font-size:1rem; 
+        width: 30%;
+        font-family: tahoma;
+        font-size: 1rem;
         color: #444444;
-        line-height:180%;
+        line-height: 180%;
         float: left;
-        margin-left:5%;
-        margin-right:-5%;
+        margin-left: 5%;
+        margin-right: -5%;
         margin-top: 40px;
-        margin-bottom:65px;
-        text-align:left;
+        margin-bottom: 65px;
+        text-align: left;
     }
-    
+
     .bw {
         max-width: 240px;
-        }
+    }
 
 
     #tel {
-        position:absolute;
-        top:60px;
-        left:68%;
-        font-family:tahoma;
-        font-size:13px;
-        line-height:180%;
+        position: absolute;
+        top: 60px;
+        left: 68%;
+        font-family: tahoma;
+        font-size: 13px;
+        line-height: 180%;
     }
+
     #number {
-        position:absolute;
-        top:45px;
-        left:66%;
-        font-family:tahoma;
-        font-size:13px;
-        line-height:160%;
+        position: absolute;
+        top: 45px;
+        left: 66%;
+        font-family: tahoma;
+        font-size: 13px;
+        line-height: 160%;
         text-align: center;
     }
+
     #layout {
         position: absolute;
-        top:37px;
-        left:6%;
+        top: 37px;
+        left: 6%;
         z-index: 2;
     }
+
     #telefonemobile {
         display: none;
     }
+
     #numeromobile {
         display: none;
     }
+
     .img {
         display: block;
         width: 230px;
         height: auto;
         margin-left: auto;
         margin-right: auto;
-        margin-top:20px;
+        margin-top: 20px;
     }
 }
 
 
 @media (min-width: 768px) and (max-width: 911px) {
-    
+
     a {
         font-size: 11px;
     }
-    
+
     a:hover {
         font-size: 11px;
     }
-    
+
     strong {
         font-size: 11px;
     }
 
     .dropbtnm {
         color: #FFFFFF;
-        
+
     }
-    
+
     .dropdownm {
         display: none;
-        
+
     }
-    
+
     .menutop {
-        margin-top:-39px;
-        
+        margin-top: -39px;
+
     }
-    
+
     .menudrop {
         margin: 0 auto;
         width: -moz-max-content;
         width: fit-content;
-        
+
     }
 
     .dropbtn {
@@ -736,7 +760,7 @@ footer {
         font-weight: 600;
         z-index: 1;
         padding-top: 14px;
-        margin:7px;
+        margin: 7px;
         margin-top: 6px;
     }
 
@@ -744,14 +768,14 @@ footer {
         position: relative;
         display: inline-block;
     }
-    
+
     .dropdown-content {
         display: none;
         position: absolute;
         background-color: #ffffff;
         width: 138px;
         z-index: 1;
-        margin:7px;
+        margin: 7px;
         margin-top: -8px;
     }
 
@@ -767,103 +791,107 @@ footer {
     .dropdown-content a:hover {
         background-color: #f9f9f9;
         text-decoration: none;
-        
+
     }
-    
+
     .dropdown:hover .dropdown-content {
         display: block;
     }
 
     .caixa2 {
-        display:none;
+        display: none;
     }
 
     .caixa1 {
-        width:45%;
-        font-family:tahoma; 
-        font-size:1rem; 
-        line-height:180%;
+        width: 45%;
+        font-family: tahoma;
+        font-size: 1rem;
+        line-height: 180%;
         float: left;
         color: #444444;
-        margin-left:9%;
-        margin-right:5%;
-        margin-top: 20px; 
-        margin-bottom:45px;
+        margin-left: 9%;
+        margin-right: 5%;
+        margin-top: 20px;
+        margin-bottom: 45px;
         text-align: center;
     }
-    
+
     .caixa3 {
         align-content: center;
         float: left;
         margin-left: 60px;
 
     }
-    
+
     .caixa4 {
-        width:29%;
-        font-family:tahoma; 
-        font-size:1rem; 
+        width: 29%;
+        font-family: tahoma;
+        font-size: 1rem;
         color: #444444;
-        line-height:180%;
+        line-height: 180%;
         float: left;
-        margin-left:3%;
-        margin-right:-5%;
+        margin-left: 3%;
+        margin-right: -5%;
         margin-top: 10px;
-        margin-bottom:65px;
-        text-align:left;
+        margin-bottom: 65px;
+        text-align: left;
     }
-    
+
     .box {
         width: 230px;
-        color:#909090;
+        color: #909090;
     }
-    
+
     .bw {
         max-width: 210px;
-        }
+    }
 
     #tel {
-        position:absolute;
-        top:61px;
-        left:68%;
-        font-family:tahoma;
-        font-size:13px;
-        line-height:180%;
+        position: absolute;
+        top: 61px;
+        left: 68%;
+        font-family: tahoma;
+        font-size: 13px;
+        line-height: 180%;
     }
+
     #number {
-        position:absolute;
-        top:52px;
-        left:66%;
-        font-family:tahoma;
-        font-size:12px;
-        line-height:160%;
+        position: absolute;
+        top: 52px;
+        left: 66%;
+        font-family: tahoma;
+        font-size: 12px;
+        line-height: 160%;
         text-align: center;
     }
+
     #layout {
         position: absolute;
-        top:52px;
-        left:4%;
+        top: 52px;
+        left: 4%;
         z-index: 2;
         width: 370px;
     }
+
     #telefonemobile {
         display: none;
     }
+
     #numeromobile {
         display: none;
     }
-    
+
     h3 {
         font-size: 9px;
     }
-    
+
     .img {
-    display: block;
-    width: 200px;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top:50px;
+        display: block;
+        width: 200px;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
     }
 
 
@@ -873,92 +901,96 @@ footer {
 @media (min-width: 481px) and (max-width: 767px) {
 
     .menutop {
-    display: none;
-        
+        display: none;
+
     }
-    
+
     .menudrop {
-    display: none;
-        
+        display: none;
+
     }
-    
+
     .bw {
-      animation: pulse 3s infinite;
-      margin: 0 auto;
-      display: table;
-      margin-top: 50px;
-      animation-direction: alternate;
+        animation: pulse 3s infinite;
+        margin: 0 auto;
+        display: table;
+        margin-top: 50px;
+        animation-direction: alternate;
     }
 
     @keyframes pulse {
-      0% {
-        opacity: 1;
-        transform: scale(1.05);
-      }
+        0% {
+            opacity: 1;
+            transform: scale(1.05);
+        }
+
         50% {
             transform: scale(1);
-      }
-      100% {
-        opacity: 0.7;
-        transform: scale(1.05);
-      }
+        }
+
+        100% {
+            opacity: 0.7;
+            transform: scale(1.05);
+        }
     }
 
     .caixa1 {
-        font-family:tahoma; 
-        font-size:1rem; 
-        line-height:180%;
+        font-family: tahoma;
+        font-size: 1rem;
+        line-height: 180%;
         text-align: center;
         color: #444444;
         margin: auto !important;
-        padding-left:15%;
-        padding-right:15%;
-        padding-top:20px;
+        padding-left: 15%;
+        padding-right: 15%;
+        padding-top: 20px;
         padding-bottom: 50px;
     }
-    
+
 
     .caixa2 {
-        margin:auto;
+        margin: auto;
         text-align: center;
         padding-top: 20px;
     }
-    
-        .caixa3 {
-        display:none;
+
+    .caixa3 {
+        display: none;
     }
 
-    
+
     .caixa4 {
-        font-family:tahoma; 
-        font-size:1rem; 
+        font-family: tahoma;
+        font-size: 1rem;
         color: #444444;
-        line-height:180%;
+        line-height: 180%;
         margin: auto;
-        text-align:left;
-        padding-left:15%;
-        padding-right:15%;
-        padding-top:20px;
+        text-align: left;
+        padding-left: 15%;
+        padding-right: 15%;
+        padding-top: 20px;
         padding-bottom: 50px;
     }
 
     #tel {
-        position:absolute;
-        top:60px;left:70%;
-        font-family:tahoma;
-        font-size:13px;
-        line-height:180%;
-        display:none;
-    }
-    #number {
-        display:none;
-    }
-    
-     #layout {
         position: absolute;
-        margin-top:128px;
+        top: 60px;
+        left: 70%;
+        font-family: tahoma;
+        font-size: 13px;
+        line-height: 180%;
+        display: none;
+    }
+
+    #number {
+        display: none;
+    }
+
+    #layout {
+        position: absolute;
+        margin-top: 128px;
         z-index: 2;
-        margin-left:auto;
+        margin-left: auto;
         margin-right: auto;
         display: block;
         top: 50%;
@@ -967,17 +999,17 @@ footer {
     }
 
     .menutopm {
-        float:right;
+        float: right;
         margin-top: -43px;
         margin-right: 35px;
-        
+
     }
-    
+
     .menudropm {
         margin: 0 auto;
         width: -moz-max-content;
     }
-    
+
     .dropbtnm {
         background-color: #ffffff;
         color: #000000;
@@ -986,17 +1018,17 @@ footer {
         font-size: 14px;
         border: none;
         cursor: pointer;
-        margin-right:3%;
+        margin-right: 3%;
         font-family: arial;
         font-weight: 700;
-        margin-bottom:1px;
-        z-index:1;
+        margin-bottom: 1px;
+        z-index: 1;
     }
 
     .dropdownm {
         position: relative;
         display: inline-block;
-        z-index:1;
+        z-index: 1;
     }
 
     .dropdownm-content {
@@ -1005,8 +1037,8 @@ footer {
         background-color: #ffffff;
         width: 150px;
         z-index: 1;
-        margin-right:3%;
-        z-index:1;    
+        margin-right: 3%;
+        z-index: 1;
     }
 
     .dropdownm-content a {
@@ -1016,35 +1048,37 @@ footer {
         display: block;
         border: 1px solid #c0c0c0;
         margin-bottom: 2px;
-        z-index:1;
+        z-index: 1;
     }
 
     .dropdownm-content a:hover {
         background-color: #f9f9f9;
         text-decoration: none;
-        
+
     }
-    
+
     .dropdownm:hover .dropdownm-content {
         display: block;
     }
+
     #telefonemobile {
-        position:absolute;
-        top:235px;
-        left:12%;
-        line-height:180%;
+        position: absolute;
+        top: 235px;
+        left: 12%;
+        line-height: 180%;
     }
+
     #numeromobile {
-        position:absolute;
-        top:232px;
-        left:20%;
-        font-family:tahoma;
-        font-size:12px;
+        position: absolute;
+        top: 232px;
+        left: 20%;
+        font-family: tahoma;
+        font-size: 12px;
         color: white;
-        line-height:120%;
+        line-height: 120%;
     }
-    
-        footer {
+
+    footer {
         display: block;
         max-width: 100%;
         margin: 0 auto;
@@ -1052,15 +1086,15 @@ footer {
 
     .footer-box {
         background-color: #F06405;
-        height:58px;
+        height: 58px;
         margin-top: 5px;
         padding-left: 15px;
         padding-right: 15px;
     }
-    
+
     .img {
         margin-top: 40px;
-        
+
     }
 }
 
@@ -1071,102 +1105,104 @@ footer {
 
     .menutop {
         display: none;
-        
+
     }
-    
+
     .menudrop {
         display: none;
-        
+
     }
 
     .bw {
-  /*animation-delay: 2s;*/
-  animation: pulse 3s infinite;
-  margin: 0 auto;
-  display: table;
-  margin-top: 50px;
-  animation-direction: alternate;
-}
+        /*animation-delay: 2s;*/
+        animation: pulse 3s infinite;
+        margin: 0 auto;
+        display: table;
+        margin-top: 50px;
+        animation-direction: alternate;
+    }
 
-@keyframes pulse {
-  0% {
-    opacity: 1;
-    transform: scale(1.05);
-  }
-    50% {
-        transform: scale(1);
-  }
-  100% {
-    opacity: 0.7;
-    transform: scale(1.05);
-  }
-}
-    
+    @keyframes pulse {
+        0% {
+            opacity: 1;
+            transform: scale(1.05);
+        }
+
+        50% {
+            transform: scale(1);
+        }
+
+        100% {
+            opacity: 0.7;
+            transform: scale(1.05);
+        }
+    }
+
     .caixa3 {
-        display:none;
+        display: none;
     }
 
     .caixa2 {
-        margin:auto;
+        margin: auto;
         text-align: center;
         color: #444444;
         padding-top: 5px;
         margin-bottom: 10px;
     }
-    
+
     .caixa1 {
-        font-family:tahoma; 
-        font-size:1rem; 
-        line-height:180%;
+        font-family: tahoma;
+        font-size: 1rem;
+        line-height: 180%;
         text-align: center;
         color: #444444;
         margin: auto;
         float: right;
-        padding-left:9%;
-        padding-right:9%;
+        padding-left: 9%;
+        padding-right: 9%;
         padding-top: 5px;
         padding-bottom: 30px;
         overflow-x: scroll;
     }
-    
+
     .caixa4 {
-        font-family:tahoma; 
-        font-size:1rem; 
+        font-family: tahoma;
+        font-size: 1rem;
         color: #444444;
-        line-height:180%;
+        line-height: 180%;
         margin: auto;
-        text-align:left;
-        padding-left:9%;
-        padding-right:9%;
-        padding-top:20px;
+        text-align: left;
+        padding-left: 9%;
+        padding-right: 9%;
+        padding-top: 20px;
         padding-bottom: 50px;
     }
 
     #tel {
-        display:none;
+        display: none;
     }
-    
+
     #number {
-        display:none;
+        display: none;
     }
-    
-    
+
+
     #layout {
         height: 129px;
         width: 319px;
         position: absolute;
-        margin-top:105px;
+        margin-top: 105px;
         z-index: 2;
-        margin-left:auto;
+        margin-left: auto;
         margin-right: auto;
         display: block;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
     }
-    
+
     .menutopm {
-        float:right;
+        float: right;
         margin-top: -40px;
         margin-right: 35px;
     }
@@ -1184,18 +1220,18 @@ footer {
         font-size: 14px;
         border: none;
         cursor: pointer;
-        margin-left:18%;
-        margin-right:3%;
+        margin-left: 18%;
+        margin-right: 3%;
         font-family: arial;
         font-weight: 700;
-        margin-bottom:1px;
-        z-index:1;
+        margin-bottom: 1px;
+        z-index: 1;
     }
 
     .dropdownm {
         position: relative;
         display: inline-block;
-        z-index:1;
+        z-index: 1;
     }
 
     .dropdownm-content {
@@ -1204,9 +1240,9 @@ footer {
         background-color: #ffffff;
         width: 100px;
         z-index: 1;
-        margin-left:18%;
-        margin-right:3%;
-        z-index:1;    
+        margin-left: 18%;
+        margin-right: 3%;
+        z-index: 1;
     }
 
     .dropdownm-content a {
@@ -1216,14 +1252,14 @@ footer {
         display: block;
         border: 1px solid #c0c0c0;
         margin-bottom: 2px;
-        z-index:1;
+        z-index: 1;
         font-size: 14px;
     }
 
     .dropdownm-content a:hover {
         background-color: #f9f9f9;
         text-decoration: none;
-        
+
     }
 
     .dropdownm:hover .dropdownm-content {
@@ -1231,21 +1267,22 @@ footer {
     }
 
     #telefonemobile {
-        position:absolute;
-        top:195px;
-        left:9%;
-        line-height:180%;
+        position: absolute;
+        top: 195px;
+        left: 9%;
+        line-height: 180%;
     }
+
     #numeromobile {
-        position:absolute;
-        top:194px;
-        left:21%;
-        font-family:tahoma;
-        font-size:11px;
+        position: absolute;
+        top: 194px;
+        left: 21%;
+        font-family: tahoma;
+        font-size: 11px;
         color: white;
-        line-height:120%;
+        line-height: 120%;
     }
-    
+
     footer {
         display: block;
         max-width: 100%;
@@ -1254,38 +1291,38 @@ footer {
 
     .footer-box {
         background-color: #F06405;
-        height:70px;
+        height: 70px;
         margin-top: 10px;
         padding-left: 18px;
-        padding-right:18px;
+        padding-right: 18px;
     }
-    
-        .img {
+
+    .img {
         margin-top: 30px;
-        margin:auto;
+        margin: auto;
     }
-    
-    
-        #back1 {
-      background-color: #f06405;
-      background-size: 100px 80px;
-      background-repeat: no-repeat;
-      height:25px;
-      background-position: 0px, 0px, 0px, 0px;
-      margin: 0px;
-      z-index:1000;
+
+
+    #back1 {
+        background-color: #f06405;
+        background-size: 100px 80px;
+        background-repeat: no-repeat;
+        height: 25px;
+        background-position: 0px, 0px, 0px, 0px;
+        margin: 0px;
+        z-index: 1000;
     }
 
     #back2 {
-      background-color: #f06405;
-      background-repeat: no-repeat;
-      margin-top:160px;
-      margin-left:-10px;
-      margin-right:0px;
-      height:55px;
-      z-index:1000;
+        background-color: #f06405;
+        background-repeat: no-repeat;
+        margin-top: 160px;
+        margin-left: -10px;
+        margin-right: 0px;
+        height: 55px;
+        z-index: 1000;
     }
-    
-    
-    
+
+
+
 }
